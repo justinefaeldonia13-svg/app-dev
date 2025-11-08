@@ -1,5 +1,6 @@
 # app-dev
 My first repository
+
 My favorite series: TeenWolf
 Why I love it,
 Exciting Story and Action, The mix of supernatural creatures, mystery, and intense battles keeps every episode thrilling and full of surprises.
